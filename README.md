@@ -1,2 +1,2 @@
 # PokeShot
-DX9
+DX9 Visual Studio 2019 Project
